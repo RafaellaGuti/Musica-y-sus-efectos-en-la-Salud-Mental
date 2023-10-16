@@ -87,4 +87,75 @@ Con estas adiciones podremos expresar el efecto de la música en general en la m
 # Documento ampliado
 https://github.com/RafaellaGuti/Musica-y-sus-efectos-en-la-Salud-Mental/blob/main/Rafaella%20Gutierrez%20Musica%20y%20sus%20efectos%20en%20la%20salud%20mental%20Documentacion.pdf
 
+# EN - Music and its Effects on Mental Health
+In this case, we will analyze a data set created from reports by 736 participants who described their relationship and level of exposure to different music genres and their experience in the field of mental health. The study was conducted from August to November 2022, spanning a total duration of 3 months.
 
+The attributes expressed in the data set accurately reflect:
+
+Timestamp, Age, Primary streaming service, Hours per day, While working,
+Instrumentalist, Composer, Fav genre, Exploratory, Foreign languages, BPM, Frequency [Classical], Frequency [Country], Frequency [EDM], Frequency [Folk], Frequency [Gospel], Frequency [Hip hop], Frequency [Jazz], Frequency [K pop], Frequency [Latin], Frequency [Lofi], Frequency [Metal], Frequency [Pop], Frequency [R&B], Frequency [Rap], Frequency [Rock], Frequency [Video game music], Anxiety, Depression, Insomnia, OCD, Music effects.
+
+Additionally, with both numerical and categorical responses, the supplementary records of these attributes will allow us to perform both qualitative and quantitative analysis, enabling us to express the study's conclusions more comprehensively.
+
+# Tools Used
+Below is a detailed explanation of the technological tools used in the project and their purposes:
+
+- Microsoft Excel: The data set used for the project was extracted from the web at www.Kaggle.com in CSV format. Excel was used to separate the data into tables/sheets and columns, create Primary Key and Foreign Key columns for each table.
+
+- ERD Plus Web Page: The ERD Plus website was used to create the Entity-Relationship Model in the format presented in this document.
+
+- Power BI Desktop: The application was primarily used to create the tabs on the dashboard that display the project's data visualizations. To achieve this, Power BI Desktop was used for the following actions:
+• Connect to the Data Set.
+• Build the Entity-Relationship model in the application.
+• Identify dimensions and measures columns in each table.
+• Generate calculated columns.
+• Create tables for Measures and Calendar.
+• Generate calculated measures necessary for visualization.
+• Create a mockup of the project's visualization design.
+
+- Flat Icon Web Page: The website www.FlatIcon.com was used to obtain icon resources that contributed to the dashboard's design.
+
+- Adobe Color Web Page: The website www.AdobeColors.com was used to create the accessible color palette used in the project's visualization dashboard.
+
+- Microsoft Office Word: Microsoft Word was used to create the document accompanying the dashboard in the project.
+
+# Data Source
+www.Kaggle.com
+
+# Objectives
+This analysis will determine, in general, whether music has an effect on the mental state of the participants and what correlations, if any, exist between an individual's music habits and their reported mental health:
+• Trends in improvement/deterioration/no effect by age: How much an individual's age can affect the trend of the results.
+• Hours consumed for each genre on each Streaming service: How exposure duration and which service is most used among the 736 participants affect.
+• Relationship between music genres and improvement/deterioration/no effect results: Which group of genres shows improvement in the symptoms mentioned in the reports (anxiety, OCD, Depression, Insomnia).
+• Examine preference/gusto relationship: How factors like musical preferences affect the improvement/deterioration of the reported symptoms.
+• Percentage of improvement in individuals who play or listen to a musical instrument.
+• Percentage of improvement in individuals who listen to music while working/studying.
+• Percentage of improvement in individuals who listen to music in other languages.
+• Percentage of improvement in individuals who frequently explore new artists/genres.
+
+# Data Preparation
+Cleaning and Manipulation:
+Using Microsoft Excel and Power Query in PowerBI Desktop:
+- Remove duplicates and irrelevant data.
+- Handle missing data by accurately manipulating null values in a way that adds to the study rather than being a hindrance.
+- Correct and manage structural errors using tools provided by the programs.
+  
+# Data Analysis, Interpretation, and Visualization
+The study concluded with an interactive Power BI dashboard that includes:
+
+- Cover - Pagination
+- Glossary: The glossary created for the project includes specific terms relevant to understanding and interpreting the information on the dashboard; in the PDF document, we explain the sources of each term.
+- General Reports: This tab provides informative background to the analysis. Using segmentation, we can observe the number of participants reporting improvement or deterioration in presented symptoms, their age range, and the average score they present.
+- Influential Factors in Results: It is essential to note that each participant may have more than one musical habit. This tab addresses operational and informative questions about the relationship between daily music exposure (Preferred or not), musical habits, and the improvement or deterioration of participants' symptoms.
+- Musical Genres and Symptoms: This tab aims to relate music genres to presented chronic symptoms and draw conclusions.
+- Tooltip – Musical Genres and Symptoms: The last tab is intended for creating the Tooltip used in the 'Musical Genres and Symptoms' tab about the corresponding chart. Its goal is to contribute to identifying the relationship between musical genre preference and the improvement or deterioration of the participants.
+
+# Future Lines
+For further supplementation and improvement of information presentation, it is recommended to delve deeper into research and data collection to:
+• Provide conclusions on symptoms that are measurable over time.
+• Geographically locate participants and include studies on factors such as culture and conditions in which a music genre is consumed.
+• Include additional everyday and mental and emotional performance factors.
+With these additions, we can express the effect of music on the mind in a more detailed and measurable manner.
+
+# Extended documentation
+https://github.com/RafaellaGuti/Musica-y-sus-efectos-en-la-Salud-Mental/blob/main/Rafaella%20Gutierrez%20Musica%20y%20sus%20efectos%20en%20la%20salud%20mental%20Documentacion.pdf
