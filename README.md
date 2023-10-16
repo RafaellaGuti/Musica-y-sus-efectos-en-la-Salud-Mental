@@ -1,5 +1,5 @@
-# Musica y sus efectos en la Salud Mental 
-ES - En este caso se analizará un data set creado a partir de reportes de 736 participantes que describieron su relación y nivel de exposición con distintos géneros de música y su experiencia en el área de salud mental. El estudio se realizó en el mes de agosto hasta noviembre del año 2022, contando con una duración total de 3 meses.
+#  ES - Musica y sus efectos en la Salud Mental 
+En este caso se analizará un data set creado a partir de reportes de 736 participantes que describieron su relación y nivel de exposición con distintos géneros de música y su experiencia en el área de salud mental. El estudio se realizó en el mes de agosto hasta noviembre del año 2022, contando con una duración total de 3 meses.
 Los atributos expresados en el data set reflejan con exactitud:
 
 Timestamp, Age, Primary streaming service, Hours per day, While working,
