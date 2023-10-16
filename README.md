@@ -85,6 +85,6 @@ y condiciones en las cuales se consume algún género musical.
 Con estas adiciones podremos expresar el efecto de la música en general en la mente de manera más detallada y medible.
 
 # Documento ampliado
-
+https://github.com/RafaellaGuti/Musica-y-sus-efectos-en-la-Salud-Mental/blob/main/Rafaella%20Gutierrez%20Musica%20y%20sus%20efectos%20en%20la%20salud%20mental%20Documentacion.pdf
 
 
