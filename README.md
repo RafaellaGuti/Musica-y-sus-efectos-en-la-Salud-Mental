@@ -152,9 +152,9 @@ The study concluded with an interactive Power BI dashboard that includes:
 
 # Future Lines
 For further supplementation and improvement of information presentation, it is recommended to delve deeper into research and data collection to:
-• Provide conclusions on symptoms that are measurable over time.
-• Geographically locate participants and include studies on factors such as culture and conditions in which a music genre is consumed.
-• Include additional everyday and mental and emotional performance factors.
+-  Provide conclusions on symptoms that are measurable over time.
+-  Geographically locate participants and include studies on factors such as culture and conditions in which a music genre is consumed.
+-  Include additional everyday and mental and emotional performance factors.
 With these additions, we can express the effect of music on the mind in a more detailed and measurable manner.
 
 # Extended documentation
